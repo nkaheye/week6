@@ -4,3 +4,7 @@ div > h2 {
 h2 + p {
     color:red
 }
+.list > li{
+border-bottom: 1px gray solid;
+list-style-type: none;
+}
