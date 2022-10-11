@@ -18,3 +18,9 @@ color:red
 li > a:hover{
     color: pink
 }
+
+li:first-child::first-letter {
+    font-style: bold;
+    font-size: 120%;
+}
+
