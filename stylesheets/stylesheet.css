@@ -12,4 +12,6 @@ list-style-type: none;
 li > a{
 color: green;
 } 
-
+li > a:visited{
+color:red
+}
